@@ -10,12 +10,12 @@
 | Nombre | Cédula |
 |---|---|
 | Antonio Agustín Castillo Pérez | 8-1038-2499 |
-| Ian Torres | — |
-| Jamir Montenegro | — |
+| Ian Torres | 20-53-8265 |
+| Jamir Montenegro | 8-1017-1078 |
 
-**Grupo:** 1GS132  
+**Grupo:** 1GS131  
 **Facilitadora:** Ing. Irina Fong  
-**Período:** Mayo 2026
+**Período:** Junio 2026
 
 ---
 
