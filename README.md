@@ -9,7 +9,7 @@
 
 | Nombre | Cédula |
 |---|---|
-| Antonio Agustín Castillo Pérez | 8-1038-2499 |
+| Antonio Castillo | 8-1038-2499 |
 | Ian Torres | 20-53-8265 |
 | Jamir Montenegro | 8-1017-1078 |
 
